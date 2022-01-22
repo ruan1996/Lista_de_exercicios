@@ -6,7 +6,7 @@ essas informações conforme exemplo (use a palavra "in" para dentro do intervalo,
 
 import java.util.Scanner;
 
-public class Main {
+public class exer1 {
 
 	public static void main(String[] args) {
 		
